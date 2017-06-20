@@ -5,9 +5,9 @@ Based on libnabo.
 
 # lib necessary-
 
-1- Eigen 3.0+ 
+1- Eigen 3.0+ from http://eigen.tuxfamily.org
 
-2- boost 
+2- boost form http://www.boost.org
 
 3- libnabo from http://github.com/ethz-asl/libnabo 
 
