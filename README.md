@@ -1,4 +1,4 @@
-# 3D-Pointcloud-registration-in arbitrary position (coming soon)
+# 3D-Pointcloud-registration-in arbitrary position (updated with the paper publication)
 Rough matching two point-cloud in arbitrary position in a short time;
 
 Based on libnabo.
